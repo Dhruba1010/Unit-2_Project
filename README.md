@@ -1,4 +1,4 @@
-This is the cloned website of Stylecraze.com
+# Headphone Zone Clone
 
 This website is build with HTML and CSS only. It has 3 pages landing page, login page and sign up page.
 
