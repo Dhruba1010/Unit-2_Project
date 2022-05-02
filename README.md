@@ -6,11 +6,14 @@ You can run this on your local system with just Live Share.
 
 Deployed Link :- https://unit-2-project.vercel.app
 
-![Screenshot (5)](https://user-images.githubusercontent.com/97454787/166153701-1f288bfa-bead-4357-b712-ed76761d83d7.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/97454787/166258841-4678d67d-e873-4b9c-a352-a7a28b972dac.png)
 Landing page
-![Screenshot (11)](https://user-images.githubusercontent.com/97454787/166153732-1f6247ff-0b59-4237-9319-5bedcf4dcb4f.png)
+
+![Screenshot (11)](https://user-images.githubusercontent.com/97454787/166258959-3138715f-b855-4c0c-bb91-bf4118f8bd8c.png)
 Login page
-![Screenshot (12)](https://user-images.githubusercontent.com/97454787/166153743-998f63d4-20fc-41b9-96df-7859414bb852.png)
+
+![Screenshot (12)](https://user-images.githubusercontent.com/97454787/166259011-1d67c49a-d69f-46ad-b0fd-517127e70fe5.png)
 Sign up page
 
 
